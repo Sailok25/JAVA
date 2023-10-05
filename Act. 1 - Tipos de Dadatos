@@ -1,0 +1,12 @@
+Indica el tipus de dades dels següents conceptes:
+
+| Condición     | Tipo de dato  |
+| ------------- | ------------- |
+| Edad          | int           |
+| Codi Postal   | i̶n̶t̶ string    |
+| Altura        | double        |
+| Género (valores: H= Hombre, M = Mujer   | Boolean / Char   |
+| Edad          | int           |
+| Codi Postal   | i̶n̶t̶ string    |
+| Edad          | int           |
+| Codi Postal   | i̶n̶t̶ string    |
