@@ -17,10 +17,10 @@
 
 ## Índice de contenidos - 📑
 1. EJEMPLOS
-    * ... [enlace](https://github.com/Sailok25/HTML/blob/main/Ejemplo1.java)
+    * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejemplo1.java)
       
 2. EJERCICIOS
-    * ... [enlace](https://github.com/Sailok25/HTML/blob/main/Ejercicio1.java)
+    * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
 </br>
 
 ## Agradecimientos - ⚜️
