@@ -21,22 +21,24 @@ public class exercici11 {
 		 * SI ES MES GRAN DE 100, digues no valid!
 		 */
 
-		Scanner scanner = new Scanner(System.in);
+		while (true) {
+			Scanner scanner = new Scanner(System.in);
 
-		System.out.println("Quin numero vols preguntar?");
-		int numero = scanner.nextInt();
+			System.out.println("Digam un numero del 0 al 100");
+			int numero = scanner.nextInt();
 
-		if (numero < 0) {
-			System.out.println("negatiu");
-		} else if (numero >= 0 && numero <= 20) {
-			System.out.println("numero petit");
-		} else if (numero >= 21 && numero <= 70) {
-			System.out.println("numero mitja");
-		} else if (numero >= 71 && numero <= 100) {
-			System.out.println("numero gran");
-		} else {
-			System.out.println("no valid!");
+			if (numero < 0) {
+				System.out.println("negatiu");
+			} else if (numero >= 0 && numero <= 20) {
+				System.out.println("numero petit");
+			} else if (numero >= 21 && numero <= 70) {
+				System.out.println("numero mitja");
+			} else if (numero >= 71 && numero <= 100) {
+				System.out.println("numero gran");
+			} else {
+				System.out.println("no valid!");
+			}
+
 		}
 	}
-
 }
