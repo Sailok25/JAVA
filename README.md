@@ -19,7 +19,10 @@
 1. EJEMPLOS
     * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejemplo1.java)
       
-2. EJERCICIOS
+2. EJERCICIOS CLASE
+    * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
+  
+3. EJERCICIOS PERSONAL
     * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
 </br>
 
