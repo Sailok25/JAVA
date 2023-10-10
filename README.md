@@ -18,7 +18,7 @@
 ## Índice de contenidos - 📑
 1. EJEMPLOS
     * [Tipos de datos](https://github.com/Sailok25/JAVA/blob/main/Ejemplo1.txt)
-    * [...](https://github.com/Sailok25/JAVA/blob/main/Ejemplo2.txt)
+    * [El pseudocodigo](https://github.com/Sailok25/JAVA/blob/main/Ejemplo2.txt)
     * [...](https://github.com/Sailok25/JAVA/blob/main/Ejemplo3.txt)
       
 2. EJERCICIOS CLASE
