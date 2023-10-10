@@ -1,5 +1,5 @@
 ---------------------
-| Codigos basicos 4 |
+| Codigos basicos 2 |
 ---------------------
 
 4. Entrada y salida básica:
