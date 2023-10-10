@@ -19,7 +19,9 @@
 1. EJEMPLOS
     * [Tipos de datos](https://github.com/Sailok25/JAVA/blob/main/Ejemplo1.txt)
     * [El pseudocodigo](https://github.com/Sailok25/JAVA/blob/main/Ejemplo2.txt)
-    * [Codigos basicos](https://github.com/Sailok25/JAVA/blob/main/Ejemplo3.txt)
+    * [Codigos basicos 1](https://github.com/Sailok25/JAVA/blob/main/Ejemplo3.txt)
+    * [Codigos basicos 2](https://github.com/Sailok25/JAVA/blob/main/Ejemplo4.txt)
+    * [Codigos basicos 3](https://github.com/Sailok25/JAVA/blob/main/Ejemplo5.txt)
       
 2. EJERCICIOS CLASE
     * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
