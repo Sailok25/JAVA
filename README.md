@@ -17,9 +17,9 @@
 
 ## Índice de contenidos - 📑
 1. EJEMPLOS
-    * Ejemplo 1 -  [Tipos de datos](https://github.com/Sailok25/JAVA/blob/main/Ejemplo1.txt)
-    * Ejemplo 2 -  [...](https://github.com/Sailok25/JAVA/blob/main/Ejemplo1.java)
-    * Ejemplo 3 -  [...](https://github.com/Sailok25/JAVA/blob/main/Ejemplo1.java)
+    * [Ejemplo 1 -  Tipos de datos](https://github.com/Sailok25/JAVA/blob/main/Ejemplo1.txt)
+    * [Ejemplo 2 -  Tipos de datos](https://github.com/Sailok25/JAVA/blob/main/Ejemplo2.txt)
+    * [Ejemplo 3 -  Tipos de datos](https://github.com/Sailok25/JAVA/blob/main/Ejemplo3.txt)
       
 2. EJERCICIOS CLASE
     * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
