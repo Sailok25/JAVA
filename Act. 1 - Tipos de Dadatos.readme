@@ -1,0 +1,24 @@
+Indica el tipus de dades dels següents conceptes:
+
+CONDICIÓ            | TIPUS DE DADA
+--------------------|----------------
+Edat                | Int
+CodiPostal          | Int string
+Alçada              | Double
+Gènere              | Boolean / Char (valors: H = Home, D = Dona)
+Nom                 | Sting
+Numero de Fills     | Int
+IVA                 | Double (valors: % a aplicar)
+TallaCamisa         | Int (valors numérics)
+Pes                 | Double
+Preu                | Double
+Alumne Repetidor    | Boolean (valors: SI/NO)
+Missatge            | String
+Lletra              | Char
+Major Edat          | Boolean
+Minuts              | Double / Int
+Dies                | String
+Matricula Cotxe     | String
+Comptador segons    | Double / Int
+Major Edad          | Boolean (valors: cert/fals)
+Talla Camiseta      | String (valors: S, L, XL...)
