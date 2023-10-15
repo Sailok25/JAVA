@@ -27,7 +27,7 @@
     * [E1 - Hola Mundo](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1%20-%20Hola%20Mundo.java)
     * [E2 - Condicional Doble](https://github.com/Sailok25/JAVA/blob/main/Ejercicio2%20-%20Condicional%20Doble.java)
     * [E3 - Condicional Compost](https://github.com/Sailok25/JAVA/blob/main/Ejercicio2%20-%20Condicional%20Compost.java)
-    * [E4 - Contador "For"](https://github.com/Sailok25/JAVA/blob/main/Ejercicio2%20-%20For%20Contador.java)
+    * [E4 - Contador "For"](https://github.com/Sailok25/JAVA/blob/main/Ejercicio4%20-%20For%20Contador.java)
   
 3. EJERCICIOS PERSONAL
     * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
