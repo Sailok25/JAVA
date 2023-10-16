@@ -29,6 +29,7 @@
     * [E3 - Condicional Compost](https://github.com/Sailok25/JAVA/blob/main/eje3.java)
     * [E4 - Contador "For"](https://github.com/Sailok25/JAVA/blob/main/eje4.java)
     * [E5 - Contador "While"](https://github.com/Sailok25/JAVA/blob/main/eje5.java)
+    * [E6 - Imprimir numero](https://github.com/Sailok25/JAVA/blob/main/eje6.java)
   
 3. EJERCICIOS PERSONAL
     * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
