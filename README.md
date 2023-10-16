@@ -24,10 +24,11 @@
     * [Codigos basicos 3](https://github.com/Sailok25/JAVA/blob/main/Ejemplo5.txt)
       
 2. EJERCICIOS CLASE
-    * [E1 - Hola Mundo](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1%20-%20Hola%20Mundo.java)
-    * [E2 - Condicional Doble](https://github.com/Sailok25/JAVA/blob/main/Ejercicio2%20-%20Condicional%20Doble.java)
-    * [E3 - Condicional Compost](https://github.com/Sailok25/JAVA/blob/main/Ejercicio2%20-%20Condicional%20Compost.java)
-    * [E4 - Contador "For"](https://github.com/Sailok25/JAVA/blob/main/Ejercicio4%20-%20For%20Contador.java)
+    * [E1 - Hola Mundo](https://github.com/Sailok25/JAVA/blob/main/eje1.java)
+    * [E2 - Condicional Doble](https://github.com/Sailok25/JAVA/blob/main/eje2.java)
+    * [E3 - Condicional Compost](https://github.com/Sailok25/JAVA/blob/main/eje3.java)
+    * [E4 - Contador "For"](https://github.com/Sailok25/JAVA/blob/main/eje4.java)
+    * [E5 - Contador "While"](https://github.com/Sailok25/JAVA/blob/main/eje5.java)
   
 3. EJERCICIOS PERSONAL
     * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
