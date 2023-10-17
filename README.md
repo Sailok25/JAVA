@@ -30,6 +30,12 @@
     * [E4 - Contador "For"](https://github.com/Sailok25/JAVA/blob/main/eje4.java)
     * [E5 - Contador "While"](https://github.com/Sailok25/JAVA/blob/main/eje5.java)
     * [E6 - Imprimir numero](https://github.com/Sailok25/JAVA/blob/main/eje6.java)
+    * [E7 - Suma de numeros](https://github.com/Sailok25/JAVA/blob/main/eje7.java)
+    * [E8 - Contestador automatico](https://github.com/Sailok25/JAVA/blob/main/eje8.java)
+    * [E9 - ...](https://github.com/Sailok25/JAVA/blob/main/eje9.java)
+    * [E10 - ...](https://github.com/Sailok25/JAVA/blob/main/eje10.java)
+    * [E11 - ...](https://github.com/Sailok25/JAVA/blob/main/eje11.java)
+    * [E12 - ...](https://github.com/Sailok25/JAVA/blob/main/eje12.java)
   
 3. EJERCICIOS PERSONAL
     * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
