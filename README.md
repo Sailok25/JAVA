@@ -21,7 +21,7 @@
     * [El pseudocodigo](https://github.com/Sailok25/JAVA/blob/main/Ejemplo2.txt)
     * [Codigos basicos 1](https://github.com/Sailok25/JAVA/blob/main/Ejemplo3.txt)
     * [Codigos basicos 2](https://github.com/Sailok25/JAVA/blob/main/Ejemplo4.txt)
-    * [Codigos basicos 3](https://github.com/Sailok25/JAVA/blob/main/Ejemplo5.txt)
+    * [Tipos de bucles While & For](https://github.com/Sailok25/JAVA/blob/main/Ejemplo5.txt)
       
 2. EJERCICIOS CLASE
     * [E1 - Hola Mundo](https://github.com/Sailok25/JAVA/blob/main/eje1.java)
