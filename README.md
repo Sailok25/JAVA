@@ -22,6 +22,7 @@
     * [Codigos basicos 1](https://github.com/Sailok25/JAVA/blob/main/Ejemplo3.txt)
     * [Codigos basicos 2](https://github.com/Sailok25/JAVA/blob/main/Ejemplo4.txt)
     * [Bucles While & For](https://github.com/Sailok25/JAVA/blob/main/Ejemplo5.txt)
+    * [Tipos de Scanner](https://github.com/Sailok25/JAVA/blob/main/Ejemplo6.txt)
       
 2. EJERCICIOS CLASE
     * [E1 - Hola Mundo](https://github.com/Sailok25/JAVA/blob/main/eje1.java)
