@@ -26,7 +26,7 @@ public class eje8 {
             System.out.println("Amb quin subdepartament et vols communicar?");
             System.out.println("1 - Llibres");
             System.out.println("2 - Videos");
-            System.out.println("3 - Cutres");
+            System.out.println("3 - Bolis");
             subopcio = sc.nextInt();
 
             if (subopcio == 1){
