@@ -49,8 +49,8 @@
     * [Exercici 5](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici5.java)
     * [Exercici 6](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici6.java)
     * [Exercici 7](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici7.java)
-    * [Exercici 8](...)
-    * [Exercici 9](...)
+    * [Exercici 8-13](...)
+    * [Nota](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/nota.java)
 </br>
 
 ## Agradecimientos - ⚜️
