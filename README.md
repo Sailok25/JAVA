@@ -42,13 +42,13 @@
     * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
 
 4. EXAMEN
-    * [Exercici 1](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici1.class)
-    * [Exercici 2](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici2.class)
-    * [Exercici 3](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici3.class)
-    * [Exercici 4](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici4.class)
-    * [Exercici 5](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici5.class)
-    * [Exercici 6](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici6.class)
-    * [Exercici 7](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici7.class)
+    * [Exercici 1](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici1.java)
+    * [Exercici 2](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici2.java)
+    * [Exercici 3](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici3.java)
+    * [Exercici 4](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici4.java)
+    * [Exercici 5](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici5.java)
+    * [Exercici 6](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici6.java)
+    * [Exercici 7](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/src/exercici7.java)
     * [Exercici 8](...)
     * [Exercici 9](...)
 </br>
