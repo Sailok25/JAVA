@@ -42,13 +42,13 @@
     * ... [enlace](https://github.com/Sailok25/JAVA/blob/main/Ejercicio1.java)
 
 4. EXAMEN
-    * [Exercici 1](...)
-    * [Exercici 2](...)
-    * [Exercici 3](...)
-    * [Exercici 4](...)
-    * [Exercici 5](...)
-    * [Exercici 6](...)
-    * [Exercici 7](...)
+    * [Exercici 1](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/bin/exercici1.class)
+    * [Exercici 2](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/bin/exercici2.class)
+    * [Exercici 3](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/bin/exercici3.class)
+    * [Exercici 4](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/bin/exercici4.class)
+    * [Exercici 5](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/bin/exercici5.class)
+    * [Exercici 6](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/bin/exercici6.class)
+    * [Exercici 7](https://github.com/Sailok25/JAVA/blob/main/examen/exercicis/bin/exercici7.class)
     * [Exercici 8](...)
     * [Exercici 9](...)
 </br>
